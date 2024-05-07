@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/4meepo/tagalign"
+	"github.com/iis256/tagalign"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 

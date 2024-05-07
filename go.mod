@@ -1,4 +1,4 @@
-module github.com/4meepo/tagalign
+module github.com/iis256/tagalign
 
 go 1.19
 
